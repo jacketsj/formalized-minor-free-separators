@@ -1,0 +1,4 @@
+# Lake build outputs and dependency checkouts
+/.lake/
+/build/
+lake-packages/
